@@ -45,7 +45,7 @@ x+y| 2 | 4 | 8
 
 Now we can see that number 4 can be only paired with 1; hence sequence is **14765**
 x+y| 2 | 8
--|-|
+-|-|-|
 1|x||
 3|x|x|
 5|x|x|
